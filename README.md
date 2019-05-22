@@ -1,5 +1,5 @@
-# Clint-Trailer
-Dectector de Trailer
+# Trailer-Detect
+Detector de Trailer
 
 
 Funciones: 
